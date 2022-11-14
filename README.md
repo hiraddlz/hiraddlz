@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently studying **IT management (PhD)**
 
-- 👀 I’m interested in data science and its application in financial environment**
+- 👀 I’m interested in **data science and its application in financial environment**
 
 - 🌱 I’m currently learning **Deep learning, MLOps**
 
