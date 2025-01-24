@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Hirad</h1>
 <h3 align="center">A passionate data analyst from Iran</h3>
 
-- 🔭 I’m currently studying **IT management (PhD)**
+<!-- -- 🔭 I’m currently studying **IT management (PhD)** -->
 
 - 👀 I’m interested in **data science and its application in financial environment**
 
@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **data**
 
-- 📫 How to reach me **hirad.dlz@gmail.com**
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hirad-dolatzadeh/) | [email](mailto:hirad.dlz@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
