@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **data**
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hirad-dolatzadeh/) | [email](mailto:hirad.dlz@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hirad-dolatzadeh/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
