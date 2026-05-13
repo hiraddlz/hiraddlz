@@ -19,7 +19,6 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/h1r4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="h1r4d" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hirad-dolatzadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hirad-dolatzadeh" height="30" width="40" /></a>
 <a href="https://kaggle.com/hiraddolatzadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hiraddolatzadeh" height="30" width="40" /></a>
 </p>
